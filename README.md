@@ -22,3 +22,4 @@ A web application to help the people working in the Accounts Receivable departme
 ![Screenshot (194)](https://user-images.githubusercontent.com/62071424/167305347-6e938aef-02ac-4d90-8e67-4c8fe0285669.png)
 ![Screenshot (195)](https://user-images.githubusercontent.com/62071424/167305349-9cfb8fd7-e13a-4b3e-9fbc-61d8c217226a.png)
 ![Screenshot (181)](https://user-images.githubusercontent.com/62071424/167305352-11a93965-4060-4a99-824d-9354b7bf5f11.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/62071424/167305407-89dd17c3-a702-455a-a0e0-976a7213ca2b.png)
