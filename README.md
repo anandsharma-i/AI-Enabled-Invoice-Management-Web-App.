@@ -1,5 +1,5 @@
 # AI-Enabled-Invoice-Management-Web-App.
-A web application to help the people working in the Accounts Receivable departments in their day-to-day activities.
+A Full stack web application to help the people working in the Accounts Receivable departments in their day-to-day activities.
 
 # Problem Statement for ML:
 > You need to build a web application where the users in the Account Receivable department can :
